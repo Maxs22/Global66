@@ -56,10 +56,10 @@ Tecnologías Utilizadas
      Uso: Gestión de rutas de la aplicación.
      ```
 ### Axios
- Por qué: Axios es un cliente HTTP basado en promesas para el navegador y Node.js. Permite realizar solicitudes HTTP desde el navegador y manejar respuestas de manera eficiente.
- Uso: Realización de solicitudes a la API de Pokémon.
- ```
- ### CSS
+    Por qué: Axios es un cliente HTTP basado en promesas para el navegador y Node.js. Permite realizar solicitudes HTTP desde el navegador y manejar respuestas de manera eficiente.
+    Uso: Realización de solicitudes a la API de Pokémon.
+     ```
+### CSS
  ### Estilos con Alcance (Scoped Styles)
      Por qué: Los estilos con alcance en los componentes de Vue aseguran que los estilos solo se apliquen al componente en el que están definidos, evitando efectos secundarios no deseados y conflictos globales de CSS.
      Animación de Carga: Se utiliza una simple animación de fotogramas clave de CSS para animar la Pokébola durante el estado de carga.
