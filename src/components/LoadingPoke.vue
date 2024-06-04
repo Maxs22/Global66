@@ -13,8 +13,8 @@
 }
 
 .pokeball-loading {
-  width: 100px; /* Ajusta el tamaño según tus necesidades */
-  animation: spin 1s infinite linear; /* Aplica una animación de rotación infinita */
+  width: 100px;
+  animation: spin 1s infinite linear;
 }
 
 @keyframes spin {

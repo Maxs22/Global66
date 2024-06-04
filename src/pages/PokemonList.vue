@@ -87,7 +87,6 @@ export default {
       if (this.activeFilter === "favorite") {
         filtered = filtered.filter((pokemon) => pokemon.favorite);
       }
-      // retorn cada elemento con la primera letra en mayuscula
       filtered = filtered.map((pokemon) => {
         return {
           ...pokemon,
