@@ -1,0 +1,29 @@
+:root {
+  --boton-presionado: #C00E20;
+  --color-botones-normal: #F22539;
+  --color-titulos: #353535;
+  --text-grey: #5E5E5E;
+  --texto-input: #BFBFBF;
+  --color-fondo: #F5F5F5;
+  --color-claro: #F9F9F9;
+}
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-fondo);
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-fondo);
+  padding: 20px;
+  
+}
+
